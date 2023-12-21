@@ -1,11 +1,11 @@
 var firebaseConfig = {
-    apiKey: "AIzaSyAANt64N9Uv68mWnVGfw8kl9BD9IT-Vo8A",
-    authDomain: "my-website-49816.firebaseapp.com",
-    databaseURL: "https://my-website-49816-default-rtdb.asia-southeast1.firebasedatabase.app",
-    projectId: "my-website-49816",
-    storageBucket: "my-website-49816.appspot.com",
-    messagingSenderId: "427379952947",
-    appId: "1:427379952947:web:13798ce2ed7840c4fe8246",
+  apiKey: "AIzaSyD42mav7XLbF3t9TVn-4HkoFVFJNyCrgOo",
+  authDomain: "kwitter-c2ab0.firebaseapp.com",
+  databaseURL: "https://kwitter-c2ab0-default-rtdb.firebaseio.com",
+  projectId: "kwitter-c2ab0",
+  storageBucket: "kwitter-c2ab0.appspot.com",
+  messagingSenderId: "917324308993",
+  appId: "1:917324308993:web:bf16cb4ab86a3f3eff9600"
   };
   
   
